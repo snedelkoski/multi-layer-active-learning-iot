@@ -6,7 +6,7 @@ https://ieeexplore.ieee.org/document/8812180
 
 If you use the paper or any of the code please cite:
 
-@INPROCEEDINGS{nedelkoski2019multilayeredge,
+<pre><code>@INPROCEEDINGS{nedelkoski2019multilayeredge,
   author={S. {Nedelkoski} and L. {Thamsen} and I. {Verbitskiy} and O. {Kao}},
   booktitle={2019 IEEE International Conference on Edge Computing (EDGE)}, 
   title={Multilayer Active Learning for Efficient Learning and Resource Usage in Distributed IoT Architectures}, 
@@ -15,3 +15,4 @@ If you use the paper or any of the code please cite:
   number={},
   pages={8-12},
   doi={10.1109/EDGE.2019.00015}}
+</code></pre>
